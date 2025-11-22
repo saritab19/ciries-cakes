@@ -82,6 +82,12 @@ p {
   margin: 0 0 1rem;
 }
 
+.love-accent {
+  font-family: "Satisfy", cursive;
+  font-size: 1.2em;
+  color: #b24966; /* a warm berry shade */
+}
+
 .hero-subtitle,
 .about-text {
   color: var(--color-text-muted);
